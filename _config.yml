@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Park Hyun Jun"
-  avatar           : "/assets/images/bio-photo-background1.jpg"
+  avatar           : "/assets/js/background1.png"
   bio              : "I am an student of HUF's Computer Engineering Department."
   location         : "South Korea Gimpo"
   email            : "lanlaria@hufs.ac.kr"
